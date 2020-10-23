@@ -7,17 +7,17 @@ const projectsData = [{
     link:" https://life-point.herokuapp.com/members",
     projectName:"Life Point 1"
 },{
-    img:"life-point.png",
-    link:" https://life-point.herokuapp.com/members",
-    projectName:"Life Point 1"
+    img:"home-screenshot.png",
+    link:" https://ktlnn.github.io/send-foodz/",
+    projectName:"Send Foodz"
 },{
-    img:"life-point.png",
-    link:" https://life-point.herokuapp.com/members",
-    projectName:"Life Point 1"
+    img:"weather-deashboard.png",
+    link:" https://mustafadag84.github.io/Weather-Dashboard/",
+    projectName:"Weather Deashboard "
 },{
-    img:"life-point.png",
+    img:"code-quiz.png",
     link:" https://life-point.herokuapp.com/members",
-    projectName:"Life Point 1"
+    projectName:"Code Quiz"
 },{
     img:"life-point.png",
     link:" https://life-point.herokuapp.com/members",
