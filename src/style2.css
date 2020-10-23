@@ -1,0 +1,151 @@
+
+
+  header{
+    margin-top: 10px;
+    padding-bottom: 10px;
+  }
+
+h1{
+    
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+#name:hover{
+  animation: jiggle 1s;
+    
+  }
+
+  .nav{
+    justify-content: flex-end;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-style: italic;
+    
+    }
+
+    
+    a {
+        text-decoration: center;
+        color: #ffff;
+        font-size: 21px;
+        display: block;
+        padding: 5px 10px;
+        position: relative;
+        margin: 0 10px;
+        transition: all 0.5s;
+      }
+      a:hover {
+        background-color: #e91e63;
+        color: white;
+      }
+      a:before {
+        content: "";
+        position: absolute;
+        bottom: 12px;
+        left: 12px;
+        width: 12px;
+        height: 12px;
+        border: 3px solid #e91e63;
+        border-width: 0 0 3px 3px;
+        opacity: 0;
+        transition: all 0.3s;
+      }
+      a:hover:before {
+        opacity: 1;
+        bottom: -7px;
+        left: -7px;
+      }
+      a:after {
+        content: "";
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        width: 12px;
+        height: 12px;
+        border: 3px solid #e91e63;
+        border-width: 3px 3px 0 0;
+        opacity: 0;
+        transition: all 0.3s;
+      }
+      a:hover:after {
+        opacity: 1;
+        top: -7px;
+        right: -7px;
+      }
+      
+
+
+
+h2{
+    color: white;
+    margin-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+img{
+    height: 250px;
+    position: cover;
+    box-shadow: black;
+}
+.card{
+  text-align: center;
+}
+
+.card-img-top{
+  border-radius: 10%;
+  border: 10px;
+}
+
+h5{
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    
+}
+
+
+footer{
+    text-align: center;
+     color: white;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     margin-top: 240px;
+     margin-bottom: 10px;
+}
+
+.card{
+    margin: 20px;
+    background: url(img/61u-n7fGzgL._AC_SL1000_.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border: none;
+}
+
+@keyframes jiggle {
+  15%,40%,75%,100% {
+    transform-origin:center center
+  }
+  15% {
+    transform:scale(1.4, 1.2);
+  }
+  40% {
+    transform:scale(0.9, 0.9);
+  }
+  75% {
+    transform:scale(1.08, 1);
+  }
+  100% {
+    transform:scale(1, 1);
+  }
+}
