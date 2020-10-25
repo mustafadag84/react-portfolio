@@ -19,9 +19,9 @@ const projectsData = [{
     link:" https://life-point.herokuapp.com/members",
     projectName:"Code Quiz"
 },{
-    img:"life-point.png",
-    link:" https://life-point.herokuapp.com/members",
-    projectName:"Life Point 1"
+    img:"workday-scheduler.png",
+    link:"  https://mustafadag84.github.io/third-part-APIs-work-day-scheduler/",
+    projectName:"Workday Scheduler"
 }]
 
 function Portfolio() {
