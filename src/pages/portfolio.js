@@ -22,6 +22,10 @@ const projectsData = [{
     img:"workday-scheduler.png",
     link:"  https://mustafadag84.github.io/third-part-APIs-work-day-scheduler/",
     projectName:"Workday Scheduler"
+},{
+    img:"password-generator.png",
+    link:"https://mustafadag84.github.io/javascript-password-generator/",
+    projectName:"Password Generator"
 }];
 
 function Portfolio() {
