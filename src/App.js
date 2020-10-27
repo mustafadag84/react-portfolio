@@ -18,7 +18,7 @@ function App() {
             <About />
           </Route>
 
-          <Route exact path="/portfolio">
+          <Route path="/portfolio">
             <Portfolio />
           </Route>
 

@@ -1,5 +1,6 @@
 import React from 'react';
 import ProfilePicture from "../img/profile.jpg";
+
 function About() {
   return (
     <main className="container">

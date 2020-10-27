@@ -22,7 +22,7 @@ const projectsData = [{
     img:"workday-scheduler.png",
     link:"  https://mustafadag84.github.io/third-part-APIs-work-day-scheduler/",
     projectName:"Workday Scheduler"
-}]
+}];
 
 function Portfolio() {
     return (
