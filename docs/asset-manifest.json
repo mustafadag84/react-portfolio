@@ -1,23 +1,29 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.d6f57667.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.d6f57667.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.ab4660c7.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.ab4660c7.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
-    "static/js/2.26e8f6c7.chunk.js": "/react-portfolio/static/js/2.26e8f6c7.chunk.js",
-    "static/js/2.26e8f6c7.chunk.js.map": "/react-portfolio/static/js/2.26e8f6c7.chunk.js.map",
+    "static/js/2.6b205c7b.chunk.js": "/react-portfolio/static/js/2.6b205c7b.chunk.js",
+    "static/js/2.6b205c7b.chunk.js.map": "/react-portfolio/static/js/2.6b205c7b.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.361b6158ab05b551fb73df85295d4836.js": "/react-portfolio/precache-manifest.361b6158ab05b551fb73df85295d4836.js",
+    "precache-manifest.74e7aec37b50f4a2e3efe9c4027d32be.js": "/react-portfolio/precache-manifest.74e7aec37b50f4a2e3efe9c4027d32be.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/react-portfolio/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.26e8f6c7.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.26e8f6c7.chunk.js.LICENSE.txt",
-    "static/media/profile.jpg": "/react-portfolio/static/media/profile.08171ef1.jpg"
+    "static/js/2.6b205c7b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.6b205c7b.chunk.js.LICENSE.txt",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.8d12015d.png",
+    "static/media/home-screenshot.png": "/react-portfolio/static/media/home-screenshot.90d448d7.png",
+    "static/media/life-point.png": "/react-portfolio/static/media/life-point.78454cd4.png",
+    "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.c8a900a2.png",
+    "static/media/profile.jpg": "/react-portfolio/static/media/profile.08171ef1.jpg",
+    "static/media/weather-deashboard.png": "/react-portfolio/static/media/weather-deashboard.a0a0f938.png",
+    "static/media/workday-scheduler.png": "/react-portfolio/static/media/workday-scheduler.620991a3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
-    "static/js/2.26e8f6c7.chunk.js",
+    "static/js/2.6b205c7b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.d6f57667.chunk.js"
+    "static/js/main.ab4660c7.chunk.js"
   ]
 }
