@@ -4,7 +4,7 @@ import Nav from './components/Navbar'
 import Footer from './components/Footer'
 import Portfolio from './pages/portfolio.js'
 import Contact from './pages/contact.js'
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
             <About />
           </Route>
 
-          <Route path="/portfolio">
+          <Route path="/portfolio" component={Portfolio}>
             <Portfolio />
           </Route>
 
